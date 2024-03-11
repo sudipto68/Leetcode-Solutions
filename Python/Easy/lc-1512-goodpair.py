@@ -6,4 +6,4 @@ def goodPair(nums):
                 count += 1
   return count
 
-print(goodPair([1,2,3]))
+print(goodPair([1,2,3,2]))
